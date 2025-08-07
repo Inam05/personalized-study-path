@@ -1,13 +1,5 @@
+.ipynb_checkpoints/
 __pycache__/
-*.py[cod]
-*.ipynb_checkpoints
-.vscode/
-.env
-.venv/
+data/raw/
+*.pyc
 venv/
-env/
-models/
-*.pkl
-*.joblib
-*.csv
-*.xlsx
